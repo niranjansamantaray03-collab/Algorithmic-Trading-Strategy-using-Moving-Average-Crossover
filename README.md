@@ -5,6 +5,7 @@
 This project implements a rule-based algorithmic trading strategy using moving average crossover. The system generates buy and sell signals based on trend changes and evaluates performance against a buy-and-hold benchmark.
 
 ---
+![Strategy Performance](results/algo.png)
 
 ## 🎯 Objective
 To design and analyze a trading strategy that uses technical indicators to make investment decisions and measure its effectiveness using financial metrics.
