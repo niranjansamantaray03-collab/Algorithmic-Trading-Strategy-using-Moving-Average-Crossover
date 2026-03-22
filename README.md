@@ -37,6 +37,10 @@ To design and analyze a trading strategy that uses technical indicators to make 
 - Sharpe Ratio
 
 ---
+## markdown
+- The strategy achieved comparable / better performance than the market based on cumulative returns and Sharpe Ratio.
+-  “This can be extended to multiple stocks”
+-  - Strategy may generate false signals in sideways markets
 
 ## 📊 Results
 - Compared strategy performance with Buy & Hold approach
